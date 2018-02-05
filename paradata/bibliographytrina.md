@@ -1,3 +1,5 @@
+Alison, Adrienne. War of 1812 Monument. *Parliament Buildings*, Ottawa
+
 Anon, 2014. War of 1812 monument unveiled on Parliament Hill (with video). *Ottawa Citizen*. Available at: http://ottawacitizen.com/news/local-news/war-of-1812-monument-unveiled-on-parliament-hill.
 
 Anon, 2017. War of 1812 Monument, Triumph Through Diversity. *Government of Canada: Pubic Art and Monuments*. Available at: https://www.canada.ca/en/canadian-heritage/services/art-monuments/monuments/war-1812.html.
@@ -8,4 +10,4 @@ Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” I
 
 Pritchard, A., 2017. Markdown Cheatsheet. *Github*. Available at: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
 
-Alison, Adrienne. War of 1812 Monument. *Parliament Buildings*, Ottawa.
+.
