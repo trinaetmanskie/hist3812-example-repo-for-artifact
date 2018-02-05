@@ -3,7 +3,7 @@ It was unveiled on the 200th anniversary of the Battle of Malcom’s Mills.
 Malcom Mills was the final battle, on Canadian soil, that took place during the war of 1812 *(Ottawa Citizen, para 2)*. 
 This statue is unique because it displays the diversity of Canada. 
 This monument has “a woman, a First Nations solider, a solider from the British army, a Métis, a Royal Navy sailor and a 
-Canadian militiaman” (Government of Canada, para 2). The title given to this piece is **“Triumph through Diversity”** 
+Canadian militiaman” *(Government of Canada, para 2)*. The title given to this piece is **“Triumph through Diversity”** 
 *(Government of Canada, para 1)*. 
 
 I chose to model this statue because I felt as though throughout Canadian history there are many voices that remain unheard. 
