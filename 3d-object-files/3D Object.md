@@ -4,8 +4,8 @@ I have uploaded two different versions of my model to Sketchfab. One it titled "
 
 Niether of these uploaded as I would have liked them to but that information is in additional notes.
 
-Here is a link to Surface 6: * [[https://skfb.ly/6wtWI]
+Here is a link to Surface 6: *[https://skfb.ly/6wtWI]
 
-Here is a link to surface 7: * [https://skfb.ly/6wtWG]
+Here is a link to surface 7: *[https://skfb.ly/6wtWG]
 
 
