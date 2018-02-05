@@ -8,3 +8,4 @@ Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” I
 
 Pritchard, A., 2017. Markdown Cheatsheet. *Github*. Available at: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet.
 
+Alison, Adrienne. War of 1812 Monument. *Parliament Buildings*, Ottawa.
